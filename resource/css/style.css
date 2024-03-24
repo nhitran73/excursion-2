@@ -1,0 +1,13 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: medium;
+    background-color: black;
+    text-align: center;
+}
+a {
+    color: aqua;
+}
+h5 {
+    text-align: end;
+}
